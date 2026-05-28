@@ -1,2 +1,2 @@
 # AI-ML-Headline-Prediction-Model
-AI/ML Headline Prediction Model created using Google Colab
+Functional AI/ML model that predicts headline category within four categories (world, sports, business, tech)
